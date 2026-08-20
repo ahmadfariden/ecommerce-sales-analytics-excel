@@ -1,4 +1,4 @@
-# 10_Insights — Versi Final (Setelah Validasi & Perbaikan)
+# Insights — Versi Final (Setelah Validasi & Perbaikan)
 
 Struktur tiap insight: **Finding → Evidence → Business Impact → Recommendation**
 
